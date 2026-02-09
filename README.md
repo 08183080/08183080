@@ -5,6 +5,8 @@
 
 我的个人网站：[AI+X](https://www.aixpg.one/)
 
+一起讨论AI，欢迎来 [AI+X 2.0 的 discord 服务器](https://discord.gg/Fq3wQA5vdU)
+
 我是在2026年2月10日，开始重新经营Github的。也更新了我的简历。
 
 ## 目前项目
