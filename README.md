@@ -10,5 +10,6 @@
 我是在2026年2月10日，开始重新经营Github的。也更新了我的简历。
 
 ## 目前项目
-- [ai-for-sell](https://github.com/08183080/ai-for-sell) - 20026年2月9日，字节的seedance 2.0爆火，我想要用它来生成朋友们的产品的营销视频。 
+- [ai-for-sell](https://github.com/08183080/ai-for-sell) - 20026年2月9日，字节的seedance 2.0爆火，我想要用它来生成朋友们的产品的营销视频。
+- [AI+X 社区网站](https://github.com/08183080/ai-x-community) - 目前纯静态网页，尚无后端。
 
