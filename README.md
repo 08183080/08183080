@@ -15,3 +15,4 @@
 - [AI 信息流](https://github.com/08183080/ai-flow) - 2024年年底的时候，我人生的第一个产品。后来2026年，[复活它了](https://www.aixpg.one/ai-info-stream)
 - [all-dataa 社区](https://github.com/all-dataa) - 2024年年底，创建的社区，受illya启发，这是 AI+X 1.0社区的前奏。过渡。但是也暴露了我激情灵感驱动，但是不建设的缺点。
 - [AI+X 1.0社区](https://github.com/aixapple) - 从情绪价值，到知识价值，折戟于经济价值。当时的 AI+X 1.0 社区。一个社区需要规则，同时，需要一套自己可以运转和生长的规则，而不是人力。同时，人性问题，千古不变。对于我而言，不要飘，脚踏实地，坚持反思和终身学习。这都是 AI+X 1.0社区的收获。
+- [Python资源收集](https://github.com/08183080/Python-dragon) - 持续收集 Python 资源。2024年，我的 Python 学习笔记。
