@@ -19,5 +19,6 @@
 - [XPGFuzz 网络协议模糊测试](https://github.com/08183080/XPGFuzz) - 基于大语言模型增强的网络协议模糊测试工具 XPGFuzz 1.0 开源工具。
 
 ## 其他
-- [x] 【准则】脚踏实地，深入研究，保持好奇心，感恩。
-- [x] 我正在持续写[博客](https://sy8pzmhmun.feishu.cn/wiki/HMOQwXXiPiac40kMnoNcnfURnuW)。
+- 【准则】脚踏实地，深入研究，保持好奇心，感恩。
+-  我正在持续写[博客](https://sy8pzmhmun.feishu.cn/wiki/HMOQwXXiPiac40kMnoNcnfURnuW)。
+-  我欣赏的软件：todesk。
