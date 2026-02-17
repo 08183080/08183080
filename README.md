@@ -22,3 +22,4 @@
 - 【准则】脚踏实地，深入研究，保持好奇心，感恩。
 -  我正在持续写[博客](https://sy8pzmhmun.feishu.cn/wiki/HMOQwXXiPiac40kMnoNcnfURnuW)。
 -  我欣赏的软件：todesk。
+-  我以前在【与龙邂逅】写公众号，现在在【aixpg.one】写公众号。
