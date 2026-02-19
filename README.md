@@ -24,3 +24,7 @@
 -  我正在持续写[博客](https://sy8pzmhmun.feishu.cn/wiki/HMOQwXXiPiac40kMnoNcnfURnuW)。
 -  我欣赏的软件：todesk。
 -  我以前在【与龙邂逅】写公众号，现在在【aixpg.one】写公众号。
+
+## 我的能力
+- 【编程语言】熟悉 python
+- 【时间学历】本科计算机科学与技术，研究生软件工程。从2018到现在，一咋眼八年。
