@@ -18,6 +18,7 @@
 - [Python资源收集](https://github.com/08183080/Python-dragon) - 持续收集 Python 资源。2024年，我的 Python 学习笔记。
 - [XPGFuzz 网络协议模糊测试](https://github.com/anonymous-apple/XPGFuzz) - 基于大语言模型增强的网络协议模糊测试工具 XPGFuzz 1.0 开源工具。
 - [谢苹果 自媒体](https://github.com/08183080/self-media) - 我正在尝试深入使用Claude code等做我的自媒体。2026年2月19日开始的。
+- [我的简历](https://github.com/08183080/my-resume) - 用 cursor 通过 latex 写✍️我的简历
 
 ## 其他
 - 【准则】脚踏实地，深入研究，保持好奇心，感恩。
