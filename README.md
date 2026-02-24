@@ -21,6 +21,7 @@
 - [谢苹果 自媒体](https://github.com/08183080/self-media) - 我正在尝试深入使用Claude code等做我的自媒体。2026年2月19日开始的。
 - [我的简历](https://github.com/08183080/my-resume) - 用 cursor 通过 latex 写✍️我的简历
 - [我的论文](https://github.com/08183080/xpgfuzz0122) - 用 cursor 写 latex 形式的我的论文｜追求极致，绝不平庸。不要浑浑噩噩，不要浅尝辄止。
+- [type-script](https://github.com/08183080/ts-afternoon) - 2026年2月24日，我准备用一下午的时间，和AI一起熟练typescript，并做个demo。｜致敬用typescript编程的[openclaw](https://github.com/openclaw/openclaw).
 
 ## 其他
 - 【准则】脚踏实地，深入研究，保持好奇心，感恩。
