@@ -20,7 +20,7 @@
 - [XPGFuzz 端到端的自动化网络协议模糊测试工具](https://github.com/anonymous-apple/XPGFuzz) - 基于大语言模型增强的网络协议模糊测试工具 XPGFuzz 1.0 开源工具。这个开源工具的前身是[这个](https://github.com/08183080/protocol-fuzzing)。你可以通过询问该项目的[deepwiki](https://deepwiki.com/anonymous-apple/XPGFuzz)询问关于该系统的架构、技术栈等细节。
 - [谢苹果 自媒体](https://github.com/08183080/self-media) - 我正在尝试深入使用Claude code等做我的自媒体。2026年2月19日开始的。
 - [我的简历](https://github.com/08183080/my-resume) - 用 cursor 通过 latex 写✍️我的简历
-- [我的论文](https://github.com/08183080/xpgfuzz0122) - 用 cursor 写 latex 形式的我的论文｜追求极致，绝不平庸。不要浑浑噩噩，不要浅尝辄止。
+- [我的论文](https://github.com/08183080/xpgfuzz0122) - 用 cursor 写 latex 形式的我的论文｜追求极致，绝不平庸。不要浑浑噩噩，不要浅尝辄止。|2026年3月10日，最新收获就是写论文，我不需要建立分支，直接就是main分支就行了。just one。
 - [typescript-afternoon](https://github.com/08183080/ts-afternoon) - 2026年2月24日，我准备用一下午的时间，和AI一起熟练typescript，并做个demo。｜致敬用typescript编程的[openclaw](https://github.com/openclaw/openclaw)｜一个自动提取url的信息的cli工具，codex写的。｜该工具已经发布[npm](https://www.npmjs.com/package/ts-afternoon)。
 - [GEO agent（生成引擎优化智能体）](https://github.com/08183080/GEO_agent) - 之前在一家公司做了一个半月的 GEO 通用营销文章生成智能体。你可以在[dify体验](https://udify.app/workflow/cV6A5TWLBdj5PPs7)
 - [周星驰网站 送给一个网友的礼物](https://github.com/08183080/donnaxuanxuan) - 之前 AI+X 1.0的时候，广州一个网友萱萱。送给她一个星爷的[网站](https://www.donanaxuanxuan.xyz/)。|域名是在nameslio买的，代码是在vercel部署的。域名是在nameslio花了20元买的。卡住我的最大的点，就是我对于vercel项目和nameslio的打通仍然有卡点。github->vercel，**将vercel项目的域名和你买的域名再绑定的最佳实践是直接将域名的2个nameserver，直接复制到nameslio对应的域名服务器那里去。**
