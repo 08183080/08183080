@@ -36,5 +36,6 @@
 - 【编程语言】熟悉 python
 - 【时间学历】本科计算机科学与技术，研究生软件工程。从2018到现在，一咋眼八年。
 
-## 我欣赏的github朋友
+## 我欣赏的github朋友| 我follow的
 - [芒果](https://github.com/RipeMangoBox)：CV研究人员
+- [梁新兵](https://github.com/mannaandpoem)：openmanus
