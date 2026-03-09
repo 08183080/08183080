@@ -23,6 +23,7 @@
 - [我的论文](https://github.com/08183080/xpgfuzz0122) - 用 cursor 写 latex 形式的我的论文｜追求极致，绝不平庸。不要浑浑噩噩，不要浅尝辄止。
 - [typescript-afternoon](https://github.com/08183080/ts-afternoon) - 2026年2月24日，我准备用一下午的时间，和AI一起熟练typescript，并做个demo。｜致敬用typescript编程的[openclaw](https://github.com/openclaw/openclaw)｜一个自动提取url的信息的cli工具，codex写的。｜该工具已经发布[npm](https://www.npmjs.com/package/ts-afternoon)。
 - [GEO agent（生成引擎优化智能体）](https://github.com/08183080/GEO_agent) - 之前在一家公司做了一个半月的 GEO 通用营销文章生成智能体。你可以在[dify体验](https://udify.app/workflow/cV6A5TWLBdj5PPs7)
+- [周星驰网站 送给一个网友的礼物](https://github.com/08183080/donnaxuanxuan) - 之前 AI+X 1.0的时候，广州一个网友萱萱。送给她一个星爷的[网站](https://www.donanaxuanxuan.xyz/)。|域名是在nameslio买的，代码是在vercel部署的。域名是在nameslio花了20元买的。卡住我的最大的点，就是我对于vercel项目和nameslio的打通仍然有卡点。github->vercel，将vercel项目的域名和你买的域名再绑定的最佳实践是直接将域名的2个nameserver，直接复制到nameslio对应的域名服务器那里去。
 
 ## 其他
 - 【准则】脚踏实地，深入研究，保持好奇心，感恩。
