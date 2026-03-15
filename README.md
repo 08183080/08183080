@@ -39,3 +39,4 @@
 ## 我欣赏的github朋友| 我follow的
 - [芒果](https://github.com/RipeMangoBox)：CV研究人员
 - [梁新兵](https://github.com/mannaandpoem)：openmanus
+- [lab416 师弟](https://github.com/licoded)：深耕前端...
